@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstActivity</string>
+    <string name="go_to_home_screen">Go to home screen</string>
+    <string name="go_to_payment_screen">Go to payment screen</string>
+    <string name="proceed_to_payment">Proceed to payment</string>
+    <string name="remove_item">Remove item</string>
+</resources>
